@@ -1,36 +1,26 @@
-### Olá! Eu sou o Paulo Danton 👋
+### Olá, eu sou o Paulo Danton! 👋
 
 <br>
 
-## 🚀 Sobre Mim
+[cite_start]Sou estudante de Engenharia Elétrica (7º período) [cite: 12, 13] [cite_start]e Bacharel em C&T[cite: 10], focado em resolver problemas com tecnologia.
 
-[cite_start]Sou Bacharel em Ciência e Tecnologia [cite: 10] [cite_start]e estou no 7º período de Engenharia Elétrica na UFERSA[cite: 12]. Na prática, sou um solucionador de problemas. [cite_start]Minha experiência no setor de energia [cite: 26] me ensinou que a melhor engenharia é a que cria eficiência. [cite_start]Por isso, no meu estágio atual [cite: 25][cite_start], vi uma oportunidade e tomei a iniciativa de ir além das minhas tarefas[cite: 26]: **desenvolvi uma ferramenta de automação em Python (com GUI) que preenche e gera todos os nossos relatórios e documentos (Word, Excel, PDF)**, otimizando o fluxo de trabalho da equipe.
-
-Foi nesse projeto que tudo 'clicou'. [cite_start]Percebi que minha rotina diária em **'análise técnica de equipamentos'** [cite: 26] [cite_start]e **'análise de viabilidade'** [cite: 27] era, na verdade, análise de dados. Minha formação em Engenharia Elétrica me deu a base lógica e estatística; criar essa automação me mostrou o poder do Python para aplicar essa lógica em escala e resolver problemas de forma mais inteligente.
-
-Agora, estou 'subindo o nível' dessa habilidade. [cite_start]Estou focado em dominar o pipeline completo de Análise de Dados, aplicando meu conhecimento em **Python** (indo da automação para o `Pandas` e `Scikit-learn`), aprimorando meu **Power BI** [cite: 29] para criar dashboards que contam uma história, e aprendendo **SQL** para buscar os dados direto da fonte. Meu objetivo é ir além de *automatizar* tarefas e passar a *gerar insights* de negócio.
-
-Estou buscando ativamente minha primeira oportunidade como **Analista de Dados Júnior** ou **Analista de BI Júnior**, onde eu possa trazer essa mentalidade de 'engenheiro-automatizador' e minha paixão por dados para gerar valor real.
-
-Vamos conversar?
+[cite_start]Estou direcionando minha forte base analítica (desenvolvida em projetos de viabilidade [cite: 27] [cite_start]e dimensionamento [cite: 26]) para a **Análise de Dados**. Minha experiência prática inclui o desenvolvimento de **automações em Python** para otimizar fluxos de trabalho no setor de energia.
 
 <br>
 
-## 📂 Meu Portfólio de Projetos
-
-Ainda estou construindo minha vitrine de projetos, mas você pode acompanhar meu progresso aqui. (Este será o nosso próximo passo!)
-
-➡️ **[Em Breve] Clique aqui para ver meus projetos de Análise de Dados**
+➡️ **Visite meu [Repositório de Portfólio](https://github.com/pdanton/Portfolio-Dados) para ver meus projetos completos.** ⬅️
+*(Nota: Vamos criar este repositório no próximo passo!)*
 
 <br>
 
-## 🛠️ Habilidades & Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
-| Categoria | Tecnologias |
+| Categoria | Em Foco |
 | :--- | :--- |
-| **Engenharia & Análise** | [cite_start]Análise de Viabilidade Técnica [cite: 27][cite_start], Dimensionamento de Sistemas [cite: 26][cite_start], Excel Intermediário [cite: 29][cite_start], AutoCAD [cite: 29] |
-| **Dados & Programação** | Python (Pandas, `openpyxl`, `python-docx`, `customtkinter`) |
-| **Em Desenvolvimento** | [cite_start]Power BI[cite: 29], SQL, Git/GitHub, Scikit-learn |
+| **Linguagens** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Bibliotecas (Python)** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) `openpyxl` `python-docx` `customtkinter` |
+| **Business Intelligence** | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) |
+| **Engenharia & Outros** | ![AutoCAD](https://img.shields.io/badge/AutoCAD-F00000?style=for-the-badge&logo=autocad&logoColor=white) ![Git](https://img.shields.io/badge/Git-E34C26?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
 
 <br>
 
