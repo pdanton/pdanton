@@ -4,11 +4,11 @@
 
 Sou estudante de Engenharia Elétrica (9º período) e Bacharel em C&T, focado em resolver problemas com tecnologia.
 
-Estou direcionando minha forte base analítica (desenvolvida em projetos de viabilidade e dimensionamento) para a **Análise de Dados**. Minha experiência prática inclui o desenvolvimento de **automações em Python** para otimizar fluxos de trabalho no setor de energia.
+Estou direcionando minha base analítica (desenvolvida em projetos de viabilidade e dimensionamento) para a **Análise de Dados**. Minha experiência prática inclui o desenvolvimento de **automações em Python** para otimizar fluxos de trabalho no setor de energia.
 
 <br>
 
-➡️ **Visite meu [Repositório de Portfólio](https://github.com/pdanton/Portfolio-Dados) para ver meus projetos completos.** ⬅️
+➡️ **Visite meu [Portfólio](https://github.com/pdanton/Portfolio-Dados) para ver meus projetos completos.** ⬅️
 
 
 <br>
